@@ -5,7 +5,10 @@
   font-family: "Furious Coder";
   src: url("./fonts/FuriousCoder.eot"); /* IE9 Compat Modes */
   src: url("./fonts/FuriousCoder.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/FuriousCoder.otf") format("opentype"), /* Open Type Font */
     url("./fonts/FuriousCoder.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/FuriousCoder.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/FuriousCoder.woff") format("woff"), /* Modern Browsers */
     url("./fonts/FuriousCoder.woff2") format("woff2"); /* Modern Browsers */
   font-weight: 500;
   font-style: normal;
@@ -16,7 +19,10 @@
   font-family: "Furious Coder";
   src: url("./fonts/FuriousCoder-Light.eot"); /* IE9 Compat Modes */
   src: url("./fonts/FuriousCoder-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/FuriousCoder-Light.otf") format("opentype"), /* Open Type Font */
     url("./fonts/FuriousCoder-Light.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/FuriousCoder-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/FuriousCoder-Light.woff") format("woff"), /* Modern Browsers */
     url("./fonts/FuriousCoder-Light.woff2") format("woff2"); /* Modern Browsers */
   font-weight: 300;
   font-style: normal;
@@ -27,7 +33,10 @@
   font-family: "Furious Coder";
   src: url("./fonts/FuriousCoder-Regular.eot"); /* IE9 Compat Modes */
   src: url("./fonts/FuriousCoder-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/FuriousCoder-Regular.otf") format("opentype"), /* Open Type Font */
     url("./fonts/FuriousCoder-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/FuriousCoder-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/FuriousCoder-Regular.woff") format("woff"), /* Modern Browsers */
     url("./fonts/FuriousCoder-Regular.woff2") format("woff2"); /* Modern Browsers */
   font-weight: 400;
   font-style: normal;
@@ -38,7 +47,10 @@
   font-family: "Furious Coder";
   src: url("./fonts/FuriousCoder-Bold.eot"); /* IE9 Compat Modes */
   src: url("./fonts/FuriousCoder-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/FuriousCoder-Bold.otf") format("opentype"), /* Open Type Font */
     url("./fonts/FuriousCoder-Bold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/FuriousCoder-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/FuriousCoder-Bold.woff") format("woff"), /* Modern Browsers */
     url("./fonts/FuriousCoder-Bold.woff2") format("woff2"); /* Modern Browsers */
   font-weight: 700;
   font-style: normal;
@@ -49,7 +61,10 @@
   font-family: "Furious Coder";
   src: url("./fonts/FuriousCoder-Medium.eot"); /* IE9 Compat Modes */
   src: url("./fonts/FuriousCoder-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/FuriousCoder-Medium.otf") format("opentype"), /* Open Type Font */
     url("./fonts/FuriousCoder-Medium.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/FuriousCoder-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/FuriousCoder-Medium.woff") format("woff"), /* Modern Browsers */
     url("./fonts/FuriousCoder-Medium.woff2") format("woff2"); /* Modern Browsers */
   font-weight: 600;
   font-style: normal;
