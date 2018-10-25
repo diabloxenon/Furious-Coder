@@ -6,20 +6,28 @@ An implementation of Fira Code with Nerd Fonts variant to support modern day web
 
 To install it in your site, there are two versions from which you need to choose
 
-If you want to add a full version of fonts into your site:
-
-`@import url('https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.0.0/style-full.css');`
-
-If you want to use lite version of fonts in your site:
+If you want to use Light version of fonts in your site:
 
 ```html
 <!-- HTML -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.0.0/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.1.3/stylePro.css">
 ```
 
 ```css
 /* CSS */
-@import url('https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.0.0/style.css');
+@import url('https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.1.3/stylePro.css');
+```
+
+If you want to use Light version of fonts in your site:
+
+```html
+<!-- HTML -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.1.3/styleLight.css">
+```
+
+```css
+/* CSS */
+@import url('https://cdn.jsdelivr.net/gh/diabloxenon/FuriousCoder@1.1.3/styleLight.css');
 ```
 
 - IE 10+, Edge: enable with `font-feature-settings: "calt" 1;`
